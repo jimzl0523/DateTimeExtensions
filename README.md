@@ -48,7 +48,7 @@ string dateDiff = DateTime.Now.ToNaturalText(DateTime.Now.AddDays(45));
 bool isBetween = DateTime.Now.IsBetween(new Time("09:00"), new Time("17:00"));
 ```
 
-## Supported Cultures
+## Supported Cultures keep it
 
 DateTimeExtensions supports working day and holiday calculations for many cultures, including:
 
